@@ -1,0 +1,6 @@
+{
+  "name": "sRNA_bin_to_circos",
+  "tagline": "Use 21, 22 and 24 nt bin files as an input to create circos plots",
+  "body": "sRNAbin_to_circos \r\n\r\n  Created by Stephen Fletcher on 2016-03-22.\r\n  Copyright 2016 organization_name. All rights reserved.\r\n\r\n  Licensed under the MIT license\r\n\r\n  Distributed on an \"AS IS\" basis without warranties\r\n  or conditions of any kind, either express or implied.\r\n\r\nUSAGE\r\n\r\npositional arguments:\r\n  organism       Org: tomato, arabidopsis, etc.\r\n  input_file     Analysis pairs in a text file\r\n  bin_path       Path to bin files\r\n  output_dir     Path to output directory\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
