@@ -132,7 +132,7 @@ def mod_conf_and_circos_tomato(path_to_conf, mutant, WT):
     
     path_to_conf_template = path_to_conf+"/etc"
     #path_to_data = path_to_conf+"/data"
-    #path_to_plots = path_to_conf+"/plots"
+    #path_to_plots = path_to_conf+"/plots" 
     
     
     out_conf = path_to_conf+"/"+LFC_file_name+".conf"
